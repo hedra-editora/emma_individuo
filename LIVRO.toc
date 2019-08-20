@@ -1,10 +1,11 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Introdução, por Carlo Romani}{7}
-\contentsline {chapter}{O indivíduo, a sociedade e o Estado}{31}
-\contentsline {chapter}{A preparação militar nos conduz direto ao massacre universal}{53}
-\contentsline {chapter}{O patriotismo, uma ameaça à liberdade}{69}
-\contentsline {chapter}{A revolução social é portadora de uma mudança radical de valores}{91}
-\contentsline {chapter}{O comunismo não existe na rússia}{121}
-\contentsline {chapter}{Trotski protesta em demasia}{143}
+\contentsline {chapter}{Introdução, por Carlo Romani}{9}
+\contentsline {part}{O indivíduo, a sociedade e o Estado, e outros ensaios}{33}
+\contentsline {chapter}{O indivíduo, a sociedade e o Estado}{35}
+\contentsline {chapter}{A preparação militar nos conduz direto ao massacre universal}{57}
+\contentsline {chapter}{O patriotismo, uma ameaça à liberdade}{73}
+\contentsline {chapter}{A revolução social é portadora de uma mudança radical de valores}{95}
+\contentsline {chapter}{O comunismo não existe na Rússia}{125}
+\contentsline {chapter}{Trotski protesta em demasia}{147}
 \contentsfinish 
