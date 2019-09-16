@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1566334129 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1566334136
+["lualatex"] 1568651934 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1568651941
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1556123292 145434 733ccd96bf349efdf31e0c1ee13b54f8 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc" 1556047516 149467 873bce6e284ab4d9ba4daedb37f25e6e ""
@@ -229,16 +229,16 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1566334135 3028 de7bf9ea5b0eaf261623c5d8201c2e77 ""
+  "INPUTS.aux" 1568651941 3028 de7bf9ea5b0eaf261623c5d8201c2e77 ""
   "INPUTS.tex" 1566326895 80 7ebd0f08598aefd86d5680db951394f0 ""
   "INTRO.tex" 1566326895 35324 e50809dc216dac90ccec4e14191f024c ""
-  "LIVRO.aux" 1566334136 540 93843f03abf09e98dee492d6da2db3f0 ""
+  "LIVRO.aux" 1568651941 540 93843f03abf09e98dee492d6da2db3f0 ""
   "LIVRO.ind" 1566330886 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
   "LIVRO.tex" 1566326895 4267 f2a8514450f65357cd7dd0c1950cb217 ""
-  "LIVRO.toc" 1566334136 678 27881b34b7004cc61102bec69c44ff17 ""
+  "LIVRO.toc" 1568651941 678 27881b34b7004cc61102bec69c44ff17 ""
   "PRETAS.tex" 1566326895 3748 62f2951103ddfd9efe878650add06523 ""
-  "PUBLICIDADE.aux" 1566334136 1771 c8e7ef99e4ef3cd17e70cd2b153b9f26 ""
-  "PUBLICIDADE.tex" 1566326895 11741 f45619b5b38c93ad9f13d4b65c043044 ""
+  "PUBLICIDADE.aux" 1568651941 1771 c8e7ef99e4ef3cd17e70cd2b153b9f26 ""
+  "PUBLICIDADE.tex" 1568651721 11724 1cd02bf125f5c2413a07b06f3afb2558 ""
   "TEXTO.tex" 1566334121 210523 5cc6b991f68c65a44c340e6f41da1681 ""
   "fichatecnica.sty" 1566330370 2347 b13912c9f8c4b84a3667a1aeaa0ba698 ""
   "fronthedra.tex" 1566330627 4014 c5e7d8e5a521f421f6e31b825bde79bb ""
@@ -249,15 +249,15 @@
   "hedraoptions.sty" 1566326895 3589 9fab769cbeabd384b5862a8cfc7f3d7e ""
   "tipografia.sty" 1566326895 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
+  "LIVRO.aux"
+  "LIVRO.idx"
   "LIVRO.pdf"
   "LIVRO.log"
-  "LIVRO.aux"
-  "PUBLICIDADE.aux"
-  "INPUTS.aux"
-  "LIVRO.idx"
   "LIVRO.toc"
-["makeindex LIVRO.idx"] 1566330886 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1566334136
-  "LIVRO.idx" 1566334131 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "INPUTS.aux"
+  "PUBLICIDADE.aux"
+["makeindex LIVRO.idx"] 1566330886 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1568651941
+  "LIVRO.idx" 1568651936 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "LIVRO.ind"
   "LIVRO.ilg"
+  "LIVRO.ind"
