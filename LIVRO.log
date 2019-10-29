@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 SEP 2019 13:38
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  25 SEP 2019 19:13
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.248 seconds
+luaotfload | main : initialization completed in 0.227 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1891,10 +1891,10 @@ Here is how much of LuaTeX's memory you used:
  1596 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 26 glue, 1 penalty, 112 attribute, 198 glue_spec, 2
 8 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:1647,3:128,4:53,5:297,6:3249,7:1231,8:51,9:208,10:25,11:44
+   avail lists: 1:2,2:1647,3:128,4:53,5:297,6:3249,7:1231,8:51,9:208,10:25,11:44
 8
  27417 multiletter control sequences out of 65536+600000
- 112 fonts using 21476583 bytes
+ 112 fonts using 21476655 bytes
  50i,14n,70p,1369b,468s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/editorial/
 texmf/tex/fonts/Formular-Regular.otf></usr/share/texmf-dist/fonts/opentype/publi
@@ -1903,7 +1903,7 @@ ertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertin
 e/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (186 pages, 486059 bytes).
+Output written on LIVRO.pdf (186 pages, 486070 bytes).
 
 PDF statistics: 632 PDF objects out of 1000 (max. 8388607)
  422 compressed objects within 5 object streams
